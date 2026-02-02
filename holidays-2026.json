@@ -1,0 +1,157 @@
+{
+  "year": 2026,
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "name": "Tahun Baru 2026 Masehi",
+      "type": "national_holiday",
+      "day": "Kamis"
+    },
+    {
+      "date": "2026-01-16",
+      "name": "Isra Mikraj Nabi Muhammad saw.",
+      "type": "national_holiday",
+      "day": "Jumat"
+    },
+    {
+      "date": "2026-02-17",
+      "name": "Tahun Baru Imlek 2577 Kongzili",
+      "type": "national_holiday",
+      "day": "Selasa"
+    },
+    {
+      "date": "2026-03-19",
+      "name": "Hari Suci Nyepi (Tahun Baru Saka 1948)",
+      "type": "national_holiday",
+      "day": "Kamis"
+    },
+    {
+      "date": "2026-03-21",
+      "name": "Idulfitri 1447 H",
+      "type": "national_holiday",
+      "day": "Sabtu"
+    },
+    {
+      "date": "2026-03-22",
+      "name": "Idulfitri 1447 H",
+      "type": "national_holiday",
+      "day": "Minggu"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Wafat Yesus Kristus",
+      "type": "national_holiday",
+      "day": "Jumat"
+    },
+    {
+      "date": "2026-04-05",
+      "name": "Kebangkitan Yesus Kristus (Paskah)",
+      "type": "national_holiday",
+      "day": "Minggu"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Hari Buruh Internasional",
+      "type": "national_holiday",
+      "day": "Jumat"
+    },
+    {
+      "date": "2026-05-14",
+      "name": "Kenaikan Yesus Kristus",
+      "type": "national_holiday",
+      "day": "Kamis"
+    },
+    {
+      "date": "2026-05-27",
+      "name": "Iduladha 1447 H",
+      "type": "national_holiday",
+      "day": "Rabu"
+    },
+    {
+      "date": "2026-05-31",
+      "name": "Hari Raya Waisak 2570 BE",
+      "type": "national_holiday",
+      "day": "Minggu"
+    },
+    {
+      "date": "2026-06-01",
+      "name": "Hari Lahir Pancasila",
+      "type": "national_holiday",
+      "day": "Senin"
+    },
+    {
+      "date": "2026-06-16",
+      "name": "1 Muharam Tahun Baru Islam 1448 H",
+      "type": "national_holiday",
+      "day": "Selasa"
+    },
+    {
+      "date": "2026-08-17",
+      "name": "Proklamasi Kemerdekaan",
+      "type": "national_holiday",
+      "day": "Senin"
+    },
+    {
+      "date": "2026-08-25",
+      "name": "Maulid Nabi Muhammad saw.",
+      "type": "national_holiday",
+      "day": "Selasa"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Kelahiran Yesus Kristus",
+      "type": "national_holiday",
+      "day": "Jumat"
+    }
+  ],
+  "collective_leave": [
+    {
+      "date": "2026-02-16",
+      "name": "Tahun Baru Imlek 2577 Kongzili",
+      "type": "collective_leave",
+      "day": "Senin"
+    },
+    {
+      "date": "2026-03-18",
+      "name": "Hari Suci Nyepi (Tahun Baru Saka 1948)",
+      "type": "collective_leave",
+      "day": "Rabu"
+    },
+    {
+      "date": "2026-03-20",
+      "name": "Idulfitri 1447 H",
+      "type": "collective_leave",
+      "day": "Jumat"
+    },
+    {
+      "date": "2026-03-23",
+      "name": "Idulfitri 1447 H",
+      "type": "collective_leave",
+      "day": "Senin"
+    },
+    {
+      "date": "2026-03-24",
+      "name": "Idulfitri 1447 H",
+      "type": "collective_leave",
+      "day": "Selasa"
+    },
+    {
+      "date": "2026-05-15",
+      "name": "Kenaikan Yesus Kristus",
+      "type": "collective_leave",
+      "day": "Jumat"
+    },
+    {
+      "date": "2026-05-28",
+      "name": "Iduladha 1447 H",
+      "type": "collective_leave",
+      "day": "Kamis"
+    },
+    {
+      "date": "2026-12-24",
+      "name": "Kelahiran Yesus Kristus",
+      "type": "collective_leave",
+      "day": "Kamis"
+    }
+  ]
+}
