@@ -1,0 +1,561 @@
+{
+  "year": 2027,
+  "holidays": [
+    {
+      "date": "2027-01-01",
+      "name": "Tahun Baru 2027 Masehi",
+      "type": "national_holiday",
+      "day": "Jumat"
+    },
+    {
+      "date": "2027-01-05",
+      "name": "Isra Mikraj Nabi Muhammad saw.",
+      "type": "national_holiday",
+      "day": "Selasa"
+    },
+    {
+      "date": "2027-02-06",
+      "name": "Tahun Baru Imlek 2578 Kongzili",
+      "type": "national_holiday",
+      "day": "Sabtu"
+    },
+    {
+      "date": "2027-03-08",
+      "name": "Hari Suci Nyepi (Tahun Baru Saka 1949)",
+      "type": "national_holiday",
+      "day": "Senin"
+    },
+    {
+      "date": "2027-03-10",
+      "name": "Hari Raya Idul Fitri 1448 H",
+      "type": "national_holiday",
+      "day": "Rabu"
+    },
+    {
+      "date": "2027-03-11",
+      "name": "Hari Raya Idul Fitri 1448 H",
+      "type": "national_holiday",
+      "day": "Kamis"
+    },
+    {
+      "date": "2027-03-26",
+      "name": "Wafat Yesus Kristus",
+      "type": "national_holiday",
+      "day": "Jumat"
+    },
+    {
+      "date": "2027-03-28",
+      "name": "Hari Kebangkitan Yesus Kristus (Paskah)",
+      "type": "national_holiday",
+      "day": "Minggu"
+    },
+    {
+      "date": "2027-05-01",
+      "name": "Hari Buruh Internasional",
+      "type": "national_holiday",
+      "day": "Sabtu"
+    },
+    {
+      "date": "2027-05-06",
+      "name": "Kenaikan Yesus Kristus",
+      "type": "national_holiday",
+      "day": "Kamis"
+    },
+    {
+      "date": "2027-05-17",
+      "name": "Iduladha 1448 H",
+      "type": "national_holiday",
+      "day": "Senin"
+    },
+    {
+      "date": "2027-05-20",
+      "name": "Hari Raya Waisak 2571 BE",
+      "type": "national_holiday",
+      "day": "Kamis"
+    },
+    {
+      "date": "2027-06-01",
+      "name": "Hari Lahir Pancasila",
+      "type": "national_holiday",
+      "day": "Selasa"
+    },
+    {
+      "date": "2027-06-06",
+      "name": "1 Muharam Tahun Baru Islam 1449 H",
+      "type": "national_holiday",
+      "day": "Minggu"
+    },
+    {
+      "date": "2027-08-15",
+      "name": "Maulid Nabi Muhammad SAW.",
+      "type": "national_holiday",
+      "day": "Minggu"
+    },
+    {
+      "date": "2027-08-17",
+      "name": "Proklamasi Kemerdekaan",
+      "type": "national_holiday",
+      "day": "Selasa"
+    },
+    {
+      "date": "2027-12-25",
+      "name": "Kelahiran Yesus Kristus (Natal)",
+      "type": "national_holiday",
+      "day": "Sabtu"
+    },
+    {
+      "date": "2027-12-26",
+      "name": "Isra Mikraj Nabi Muhammad saw.",
+      "type": "national_holiday",
+      "day": "Minggu"
+    }
+  ],
+  "collective_leave": [
+    {
+      "date": "2027-02-05",
+      "name": "Tahun Baru Imlek 2578 Kongzili",
+      "type": "collective_leave",
+      "day": "Jumat"
+    },
+    {
+      "date": "2027-03-09",
+      "name": "Hari Raya Idul Fitri 1448 H",
+      "type": "collective_leave",
+      "day": "Selasa"
+    },
+    {
+      "date": "2027-03-12",
+      "name": "Hari Raya Idul Fitri 1448 H",
+      "type": "collective_leave",
+      "day": "Jumat"
+    },
+    {
+      "date": "2027-03-15",
+      "name": "Hari Raya Idul Fitri 1448 H",
+      "type": "collective_leave",
+      "day": "Senin"
+    },
+    {
+      "date": "2027-03-25",
+      "name": "Wafat Yesus Kristus",
+      "type": "collective_leave",
+      "day": "Kamis"
+    },
+    {
+      "date": "2027-05-18",
+      "name": "Iduladha 1448 H",
+      "type": "collective_leave",
+      "day": "Selasa"
+    },
+    {
+      "date": "2027-05-19",
+      "name": "Hari Raya Waisak 2571 BE",
+      "type": "collective_leave",
+      "day": "Rabu"
+    },
+    {
+      "date": "2027-12-24",
+      "name": "Kelahiran Yesus Kristus (Natal)",
+      "type": "collective_leave",
+      "day": "Jumat"
+    }
+  ],
+  "observances": [
+    {
+      "date": "2027-01-03",
+      "name": "Hari Amal Bhakti Kemenag RI",
+      "type": "observance",
+      "day": "Minggu"
+    },
+    {
+      "date": "2027-01-05",
+      "name": "Hari Korps Wanita Angkatan Laut (KOWAL)",
+      "type": "observance",
+      "day": "Selasa"
+    },
+    {
+      "date": "2027-01-10",
+      "name": "Hari Gerakan Satu Juta Pohon",
+      "type": "observance",
+      "day": "Minggu"
+    },
+    {
+      "date": "2027-01-10",
+      "name": "Hari Tritura",
+      "type": "observance",
+      "day": "Minggu"
+    },
+    {
+      "date": "2027-01-15",
+      "name": "Hari Dharma Samudera",
+      "type": "observance",
+      "day": "Jumat"
+    },
+    {
+      "date": "2027-01-23",
+      "name": "Hari Patriotik",
+      "type": "observance",
+      "day": "Sabtu"
+    },
+    {
+      "date": "2027-01-25",
+      "name": "Hari Gizi Nasional",
+      "type": "observance",
+      "day": "Senin"
+    },
+    {
+      "date": "2027-01-31",
+      "name": "Hari Lahir Nahdlatul Ulama (NU)",
+      "type": "observance",
+      "day": "Minggu"
+    },
+    {
+      "date": "2027-02-05",
+      "name": "Hari Peristiwa Kapal Tujuh",
+      "type": "observance",
+      "day": "Jumat"
+    },
+    {
+      "date": "2027-02-09",
+      "name": "Hari Pers Nasional (HPN)",
+      "type": "observance",
+      "day": "Selasa"
+    },
+    {
+      "date": "2027-02-14",
+      "name": "Peringatan Pembela Tanah Air (PETA)",
+      "type": "observance",
+      "day": "Minggu"
+    },
+    {
+      "date": "2027-02-21",
+      "name": "Hari Peduli Sampah Nasional",
+      "type": "observance",
+      "day": "Minggu"
+    },
+    {
+      "date": "2027-02-28",
+      "name": "Hari Gizi Nasional Indonesia",
+      "type": "observance",
+      "day": "Minggu"
+    },
+    {
+      "date": "2027-03-01",
+      "name": "Peristiwa Serangan Umum 1 Maret",
+      "type": "observance",
+      "day": "Senin"
+    },
+    {
+      "date": "2027-03-09",
+      "name": "Hari Musik Nasional",
+      "type": "observance",
+      "day": "Selasa"
+    },
+    {
+      "date": "2027-03-30",
+      "name": "Hari Film Nasional",
+      "type": "observance",
+      "day": "Selasa"
+    },
+    {
+      "date": "2027-04-06",
+      "name": "Hari Nelayan Indonesia",
+      "type": "observance",
+      "day": "Selasa"
+    },
+    {
+      "date": "2027-04-09",
+      "name": "Hari TNI Angkatan Udara",
+      "type": "observance",
+      "day": "Jumat"
+    },
+    {
+      "date": "2027-04-16",
+      "name": "Hari Komando Pasukan Khusus (Kopassus)",
+      "type": "observance",
+      "day": "Jumat"
+    },
+    {
+      "date": "2027-04-21",
+      "name": "Hari Kartini",
+      "type": "observance",
+      "day": "Rabu"
+    },
+    {
+      "date": "2027-04-27",
+      "name": "Hari Pemasyarakatan Indonesia",
+      "type": "observance",
+      "day": "Selasa"
+    },
+    {
+      "date": "2027-04-28",
+      "name": "Hari Puisi Nasional",
+      "type": "observance",
+      "day": "Rabu"
+    },
+    {
+      "date": "2027-05-02",
+      "name": "Hari Pendidikan Nasional (Hardiknas)",
+      "type": "observance",
+      "day": "Minggu"
+    },
+    {
+      "date": "2027-05-17",
+      "name": "Hari Buku Nasional",
+      "type": "observance",
+      "day": "Senin"
+    },
+    {
+      "date": "2027-05-20",
+      "name": "Hari Kebangkitan Nasional",
+      "type": "observance",
+      "day": "Kamis"
+    },
+    {
+      "date": "2027-05-29",
+      "name": "Hari Lanjut Usia Nasional",
+      "type": "observance",
+      "day": "Sabtu"
+    },
+    {
+      "date": "2027-06-21",
+      "name": "Hari Krida Pertanian",
+      "type": "observance",
+      "day": "Senin"
+    },
+    {
+      "date": "2027-06-24",
+      "name": "Hari Bidan Nasional",
+      "type": "observance",
+      "day": "Kamis"
+    },
+    {
+      "date": "2027-06-29",
+      "name": "Hari Keluarga Berencana (KB)",
+      "type": "observance",
+      "day": "Selasa"
+    },
+    {
+      "date": "2027-07-01",
+      "name": "Hari Bhayangkara",
+      "type": "observance",
+      "day": "Kamis"
+    },
+    {
+      "date": "2027-07-05",
+      "name": "Hari Bank Indonesia",
+      "type": "observance",
+      "day": "Senin"
+    },
+    {
+      "date": "2027-07-12",
+      "name": "Hari Koperasi Indonesia",
+      "type": "observance",
+      "day": "Senin"
+    },
+    {
+      "date": "2027-07-22",
+      "name": "Hari Kejaksaan",
+      "type": "observance",
+      "day": "Kamis"
+    },
+    {
+      "date": "2027-07-23",
+      "name": "Hari Anak Nasional",
+      "type": "observance",
+      "day": "Jumat"
+    },
+    {
+      "date": "2027-08-05",
+      "name": "Hari Dharma Wanita Nasional",
+      "type": "observance",
+      "day": "Kamis"
+    },
+    {
+      "date": "2027-08-10",
+      "name": "Hari Veteran Nasional",
+      "type": "observance",
+      "day": "Selasa"
+    },
+    {
+      "date": "2027-08-14",
+      "name": "Hari Pramuka",
+      "type": "observance",
+      "day": "Sabtu"
+    },
+    {
+      "date": "2027-08-21",
+      "name": "Hari Maritim Nasional",
+      "type": "observance",
+      "day": "Sabtu"
+    },
+    {
+      "date": "2027-08-24",
+      "name": "Hari Televisi Nasional (TVRI)",
+      "type": "observance",
+      "day": "Selasa"
+    },
+    {
+      "date": "2027-09-01",
+      "name": "Hari Polisi Wanita (Polwan)",
+      "type": "observance",
+      "day": "Rabu"
+    },
+    {
+      "date": "2027-09-03",
+      "name": "Hari Palang Merah Indonesia (PMI)",
+      "type": "observance",
+      "day": "Jumat"
+    },
+    {
+      "date": "2027-09-04",
+      "name": "Hari Pelanggan Nasional",
+      "type": "observance",
+      "day": "Sabtu"
+    },
+    {
+      "date": "2027-09-09",
+      "name": "Hari Olahraga Nasional",
+      "type": "observance",
+      "day": "Kamis"
+    },
+    {
+      "date": "2027-09-17",
+      "name": "Hari Perhubungan Nasional",
+      "type": "observance",
+      "day": "Jumat"
+    },
+    {
+      "date": "2027-09-24",
+      "name": "Hari Tani Nasional",
+      "type": "observance",
+      "day": "Jumat"
+    },
+    {
+      "date": "2027-09-28",
+      "name": "Hari Kereta Api",
+      "type": "observance",
+      "day": "Selasa"
+    },
+    {
+      "date": "2027-09-30",
+      "name": "Peringatan G30S/PKI",
+      "type": "observance",
+      "day": "Kamis"
+    },
+    {
+      "date": "2027-10-01",
+      "name": "Hari Kesaktian Pancasila",
+      "type": "observance",
+      "day": "Jumat"
+    },
+    {
+      "date": "2027-10-02",
+      "name": "Hari Batik Nasional",
+      "type": "observance",
+      "day": "Sabtu"
+    },
+    {
+      "date": "2027-10-05",
+      "name": "Hari Tentara Nasional Indonesia (TNI)",
+      "type": "observance",
+      "day": "Selasa"
+    },
+    {
+      "date": "2027-10-24",
+      "name": "Hari Dokter Indonesia",
+      "type": "observance",
+      "day": "Minggu"
+    },
+    {
+      "date": "2027-10-27",
+      "name": "Hari Listrik Nasional",
+      "type": "observance",
+      "day": "Rabu"
+    },
+    {
+      "date": "2027-10-28",
+      "name": "Hari Sumpah Pemuda",
+      "type": "observance",
+      "day": "Kamis"
+    },
+    {
+      "date": "2027-10-30",
+      "name": "Hari Keuangan Nasional",
+      "type": "observance",
+      "day": "Sabtu"
+    },
+    {
+      "date": "2027-11-05",
+      "name": "Hari Cinta Puspa dan Satwa Nasional",
+      "type": "observance",
+      "day": "Jumat"
+    },
+    {
+      "date": "2027-11-10",
+      "name": "Hari Pahlawan",
+      "type": "observance",
+      "day": "Rabu"
+    },
+    {
+      "date": "2027-11-12",
+      "name": "Hari Kesehatan Nasional",
+      "type": "observance",
+      "day": "Jumat"
+    },
+    {
+      "date": "2027-11-12",
+      "name": "Hari Ayah Nasional",
+      "type": "observance",
+      "day": "Jumat"
+    },
+    {
+      "date": "2027-11-14",
+      "name": "Hari Brigade Mobil (Brimob)",
+      "type": "observance",
+      "day": "Minggu"
+    },
+    {
+      "date": "2027-11-25",
+      "name": "Hari Guru (HUT PGRI)",
+      "type": "observance",
+      "day": "Kamis"
+    },
+    {
+      "date": "2027-11-28",
+      "name": "Hari Menanam Pohon Indonesia",
+      "type": "observance",
+      "day": "Minggu"
+    },
+    {
+      "date": "2027-11-29",
+      "name": "Hari KORPRI",
+      "type": "observance",
+      "day": "Senin"
+    },
+    {
+      "date": "2027-12-12",
+      "name": "Hari Transmigrasi",
+      "type": "observance",
+      "day": "Minggu"
+    },
+    {
+      "date": "2027-12-13",
+      "name": "Hari Nusantara",
+      "type": "observance",
+      "day": "Senin"
+    },
+    {
+      "date": "2027-12-19",
+      "name": "Hari Bela Negara",
+      "type": "observance",
+      "day": "Minggu"
+    },
+    {
+      "date": "2027-12-22",
+      "name": "Hari Ibu",
+      "type": "observance",
+      "day": "Rabu"
+    }
+  ]
+}

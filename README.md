@@ -29,6 +29,15 @@ Data **hari libur nasional** dan **cuti bersama** diambil dari referensi resmi p
 - **Jumlah libur nasional:** 17 hari
 - **Jumlah cuti bersama:** 8 hari
 
+### Referensi Tahun 2027
+
+- **Dokumen:** SKB 3 Menteri Nomor 1205 Tahun 2026, Nomor 3 Tahun 2026, dan Nomor 2 Tahun 2026
+- **Tentang:** Hari Libur Nasional dan Cuti Bersama Tahun 2027
+- **Tanggal ditetapkan:** 15 September 2026
+- **Sumber berita resmi:** [Sekretariat Negara (setneg.go.id)](https://www.setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2027)
+- **Jumlah libur nasional:** 18 hari
+- **Jumlah cuti bersama:** 8 hari
+
 ### Cara Mencari Referensi Tahun Berikutnya
 
 Untuk membuat data tahun baru (misal: `holidays-2027.json`), cari pengumuman resmi dengan kata kunci:
@@ -85,14 +94,15 @@ Observances di Indonesia **tidak diatur dalam satu dokumen tunggal**. Masing-mas
 - Observances berbasis kalender keagamaan/lunar (contoh: Siwaratri) **sengaja tidak dimasukkan** agar data konsisten dan bisa di-copy antar tahun tanpa penyesuaian.
 - Jika ada observances baru yang ditetapkan pemerintah, bisa ditambahkan. Jika ada yang dicabut, bisa dihapus.
 
-**Sumber observances saat ini:**
-Karena tidak ada satu website resmi pemerintah yang merangkum seluruh hari peringatan nasional secara lengkap, data observances di repositori ini sementara mengacu pada:
-- **[blog.amikom.ac.id](https://blog.amikom.ac.id/hari-besar-nasional-dan-internasional-2026/)** — sebagai acuan praktis daftar hari peringatan nasional dan internasional.
+**Sumber observances yang digunakan:**
+- **[Universitas Amikom Yogyakarta: Daftar Hari Besar Nasional dan Internasional 2026](https://blog.amikom.ac.id/hari-besar-nasional-dan-internasional-2026/)** — menjadi acuan praktis untuk menyusun daftar observances. Artikel ini merupakan rangkuman editorial, bukan keputusan resmi pemerintah.
+- Dari daftar tersebut, repositori ini mengambil peringatan berlabel **nasional** yang memakai tanggal Masehi tetap. Peringatan internasional dan tanggal yang bergantung pada kalender lunar/agama tidak dimasukkan.
+- Jika tersedia, dasar hukum atau pengumuman instansi terkait dapat dipakai sebagai verifikasi tambahan; namun cakupan daftar observances mengikuti acuan Amikom.
 
 **Cara memverifikasi observances:**
-1. Cek di [JDIH BPK](https://peraturan.bpk.go.id) dengan kata kunci nama hari + "Keppres" atau "Perpres"
-2. Cek situs resmi kementerian/lembaga terkait
-3. Untuk hari peringatan yang berbasis kalender keagamaan, periksa penetapan tanggal dari kementerian agama atau organisasi keagamaan yang bersangkutan
+1. Gunakan artikel Amikom untuk mengidentifikasi peringatan nasional dan tanggalnya.
+2. Cek sumber resmi kementerian/lembaga atau naskah hukum bila perlu memastikan dasar penetapannya.
+3. Hitung ulang nama hari berdasarkan tahun data; jangan menyalin nama hari dari artikel tahun lain.
 
 ## Checklist: Membuat Data Tahun Baru
 
@@ -113,9 +123,9 @@ Gunakan langkah-langkah berikut untuk membuat file `holidays-{tahun}.json` (cont
 
 ### 3. Observances (Copy & Cek)
 - [ ] Copy seluruh data dari array `"observances"` tahun sebelumnya
-- [ ] Cek di blog.amikom.ac.id (atau sumber serupa) apakah ada observances **baru** yang ditetapkan untuk tahun baru
-- [ ] Cek apakah ada observances yang **dicabut/dihapus** oleh pemerintah
-- [ ] Jika ada yang baru/tidak ada perubahan, update sesuai kebutuhan
+- [ ] Gunakan artikel daftar hari besar nasional Amikom untuk tahun baru sebagai acuan utama
+- [ ] Ambil peringatan berlabel nasional yang sesuai dengan kebijakan repositori; jangan masukkan peringatan internasional
+- [ ] Cek pengumuman resmi atau dasar hukum bila tersedia dan hitung ulang nama hari
 - [ ] **Jangan masukkan** observances berbasis kalender lunar/keagamaan non-Masehi
 
 ### 4. Validasi Akhir
